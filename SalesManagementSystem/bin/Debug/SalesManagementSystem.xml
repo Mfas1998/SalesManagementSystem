@@ -1,0 +1,68 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SalesManagementSystem
+</name>
+</assembly>
+<members>
+<member name="P:SalesManagementSystem.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SalesManagementSystem.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:SalesManagementSystem.My.Resources.Resources.delete_property_32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SalesManagementSystem.My.Resources.Resources.edit_11_32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SalesManagementSystem.My.Resources.Resources.excel_3_32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SalesManagementSystem.My.Resources.Resources.exit_2_321">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SalesManagementSystem.My.Resources.Resources.folder_48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SalesManagementSystem.My.Resources.Resources.microsoft_word_32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SalesManagementSystem.My.Resources.Resources.plus_4_32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SalesManagementSystem.My.Resources.Resources.printer_32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SalesManagementSystem.My.Resources.Resources.product_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SalesManagementSystem.My.Resources.Resources.save_32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SalesManagementSystem.My.Resources.Resources.x_mark_3_32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:SalesManagementSystem.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

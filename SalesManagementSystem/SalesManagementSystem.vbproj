@@ -1,0 +1,322 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{826E62C1-59CC-4B0C-ADC6-FDC6E91AB26E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>SalesManagementSystem.My.MyApplication</StartupObject>
+    <RootNamespace>SalesManagementSystem</RootNamespace>
+    <AssemblyName>SalesManagementSystem</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>SalesManagementSystem.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>SalesManagementSystem.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Word, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="forms\add_cat.Designer.vb">
+      <DependentUpon>add_cat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\add_cat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\add_customers.Designer.vb">
+      <DependentUpon>add_customers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\add_customers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\add_importer.Designer.vb">
+      <DependentUpon>add_importer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\add_importer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\add_product.Designer.vb">
+      <DependentUpon>add_product.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\add_product.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\add_unit.Designer.vb">
+      <DependentUpon>add_unit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\add_unit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\edit_cat.Designer.vb">
+      <DependentUpon>edit_cat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\edit_cat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\edit_cust.Designer.vb">
+      <DependentUpon>edit_cust.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\edit_cust.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\edit_importer.Designer.vb">
+      <DependentUpon>edit_importer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\edit_importer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\edit_product.Designer.vb">
+      <DependentUpon>edit_product.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\edit_product.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\edit_unit.Designer.vb">
+      <DependentUpon>edit_unit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\edit_unit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\frm_cat.Designer.vb">
+      <DependentUpon>frm_cat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\frm_cat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\frm_customers.Designer.vb">
+      <DependentUpon>frm_customers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\frm_customers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\frm_importer.Designer.vb">
+      <DependentUpon>frm_importer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\frm_importer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\frm_product.Designer.vb">
+      <DependentUpon>frm_product.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\frm_product.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\frm_unit.Designer.vb">
+      <DependentUpon>frm_unit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\frm_unit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\home.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\home.Designer.vb">
+      <DependentUpon>home.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\invoice_buy.Designer.vb">
+      <DependentUpon>invoice_buy.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\invoice_buy.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="moduls\Connection.vb" />
+    <Compile Include="moduls\Excel_Module.vb" />
+    <Compile Include="moduls\Main_Module.vb" />
+    <Compile Include="moduls\Word_Module.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="forms\add_cat.en.resx">
+      <DependentUpon>add_cat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\add_cat.resx">
+      <DependentUpon>add_cat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\add_customers.resx">
+      <DependentUpon>add_customers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\add_importer.resx">
+      <DependentUpon>add_importer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\add_product.resx">
+      <DependentUpon>add_product.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\add_unit.resx">
+      <DependentUpon>add_unit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\edit_cat.resx">
+      <DependentUpon>edit_cat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\edit_cust.resx">
+      <DependentUpon>edit_cust.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\edit_importer.resx">
+      <DependentUpon>edit_importer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\edit_product.resx">
+      <DependentUpon>edit_product.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\edit_unit.resx">
+      <DependentUpon>edit_unit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\frm_cat.en.resx">
+      <DependentUpon>frm_cat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\frm_cat.resx">
+      <DependentUpon>frm_cat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\frm_customers.resx">
+      <DependentUpon>frm_customers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\frm_importer.resx">
+      <DependentUpon>frm_importer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\frm_product.resx">
+      <DependentUpon>frm_product.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\frm_unit.resx">
+      <DependentUpon>frm_unit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\home.resx">
+      <DependentUpon>home.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\invoice_buy.resx">
+      <DependentUpon>invoice_buy.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\x-mark-3-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\product-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus-4-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit-11-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete-property-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\printer-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\excel-3-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\microsoft-word-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit-2-321.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

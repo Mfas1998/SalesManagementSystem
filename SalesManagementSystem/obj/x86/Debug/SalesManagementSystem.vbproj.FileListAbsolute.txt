@@ -1,0 +1,59 @@
+c:\users\a\documents\visual studio 2010\Projects\SalesManagementSystem\SalesManagementSystem\bin\Debug\SalesManagementSystem.exe
+c:\users\a\documents\visual studio 2010\Projects\SalesManagementSystem\SalesManagementSystem\bin\Debug\SalesManagementSystem.pdb
+c:\users\a\documents\visual studio 2010\Projects\SalesManagementSystem\SalesManagementSystem\bin\Debug\SalesManagementSystem.xml
+c:\users\a\documents\visual studio 2010\Projects\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.frm_cat.resources
+c:\users\a\documents\visual studio 2010\Projects\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.home.resources
+c:\users\a\documents\visual studio 2010\Projects\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.Resources.resources
+c:\users\a\documents\visual studio 2010\Projects\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.vbproj.GenerateResource.Cache
+c:\users\a\documents\visual studio 2010\Projects\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.exe
+c:\users\a\documents\visual studio 2010\Projects\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.xml
+c:\users\a\documents\visual studio 2010\Projects\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.pdb
+C:\Users\a\documents\visual studio 2010\Projects\SalesManagementSystem\SalesManagementSystem\bin\Debug\en\SalesManagementSystem.resources.dll
+C:\Users\a\documents\visual studio 2010\Projects\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.frm_cat.en.resources
+C:\Users\a\documents\visual studio 2010\Projects\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\en\SalesManagementSystem.resources.dll
+C:\Users\a\documents\visual studio 2010\Projects\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.add_cat.resources
+C:\Users\a\documents\visual studio 2010\Projects\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.add_cat.en.resources
+C:\Users\a\documents\visual studio 2010\Projects\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.edit_cat.resources
+C:\Users\a\documents\visual studio 2010\Projects\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.frm_unit.resources
+C:\Users\a\documents\visual studio 2010\Projects\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.add_unit.resources
+C:\Users\a\documents\visual studio 2010\Projects\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.edit_unit.resources
+C:\Users\a\documents\visual studio 2010\Projects\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.add_product.resources
+C:\Users\a\documents\visual studio 2010\Projects\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.frm_product.resources
+C:\Users\a\documents\visual studio 2010\Projects\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.edit_product.resources
+C:\Users\a\documents\visual studio 2010\Projects\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.frm_customers.resources
+C:\Users\a\documents\visual studio 2010\Projects\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.add_customers.resources
+C:\Users\a\documents\visual studio 2010\Projects\SalesManagementSystem\SalesManagementSystem\bin\Debug\SalesManagementSystem.exe.config
+C:\Users\a\documents\visual studio 2010\Projects\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.edit_cust.resources
+C:\Users\a\documents\visual studio 2010\Projects\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.frm_importer.resources
+C:\Users\a\documents\visual studio 2010\Projects\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.add_importer.resources
+C:\Users\a\documents\visual studio 2010\Projects\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.edit_importer.resources
+E:\SalesManagementSystem\SalesManagementSystem\bin\Debug\SalesManagementSystem.exe.config
+E:\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.exe
+E:\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.xml
+E:\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.pdb
+E:\SalesManagementSystem\SalesManagementSystem\bin\Debug\SalesManagementSystem.exe
+E:\SalesManagementSystem\SalesManagementSystem\bin\Debug\SalesManagementSystem.pdb
+E:\SalesManagementSystem\SalesManagementSystem\bin\Debug\SalesManagementSystem.xml
+E:\SalesManagementSystem\SalesManagementSystem\bin\Debug\en\SalesManagementSystem.resources.dll
+E:\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.add_cat.resources
+E:\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.add_customers.resources
+E:\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.add_importer.resources
+E:\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.add_product.resources
+E:\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.add_unit.resources
+E:\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.edit_cat.resources
+E:\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.edit_cust.resources
+E:\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.edit_importer.resources
+E:\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.edit_product.resources
+E:\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.edit_unit.resources
+E:\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.frm_cat.resources
+E:\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.frm_customers.resources
+E:\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.frm_importer.resources
+E:\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.frm_product.resources
+E:\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.frm_unit.resources
+E:\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.home.resources
+E:\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.invoice_buy.resources
+E:\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.Resources.resources
+E:\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.add_cat.en.resources
+E:\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.frm_cat.en.resources
+E:\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\SalesManagementSystem.vbproj.GenerateResource.Cache
+E:\SalesManagementSystem\SalesManagementSystem\obj\x86\Debug\en\SalesManagementSystem.resources.dll
